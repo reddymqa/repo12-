@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is CC7A-E1AF
+
+ Directory of C:\Users\prasa\OneDrive\Desktop\project
+
+02-02-2024  10:03    <DIR>          .
+02-02-2024  07:41    <DIR>          ..
+02-02-2024  08:08                22 index.html
+02-02-2024  10:03                 0 prasad.txt
+02-02-2024  08:06                 8 test1.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  138,212,651,008 bytes free
